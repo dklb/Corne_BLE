@@ -62,7 +62,7 @@
                         bindings = <
 &sys_reset &trans   &trans &trans   &trans   &trans      &trans     &kp C_BRI_UP &kp C_BRI_DN  &trans     &trans &trans
     &trans   &trans &trans &trans   &trans   &trans      &kp C_PREV &kp C_VOL_UP &kp C_VOL_DN  &kp C_NEXT &trans &trans
-   &kt LSHFT &trans &trans &trans   &trans   &trans      &trans     &kp C_PP     &kp LBRC      &trans     &trans &trans
+   &kp LSHFT &trans &trans &trans   &trans   &trans      &trans     &kp C_PP     &kp LBRC      &trans     &trans &trans
                              &trans &trans   &trans   &trans   &trans    &trans
                         >;
                     
